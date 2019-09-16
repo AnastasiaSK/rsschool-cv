@@ -1,1 +1,1 @@
-RS School CV
+https://anastasiask.github.io/rsschool-cv/cv
